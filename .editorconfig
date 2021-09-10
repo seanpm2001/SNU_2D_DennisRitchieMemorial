@@ -1,0 +1,76 @@
+# Start of script
+
+# Editor configuration file for SNU / 2D / Dennis Ritchie Memorial
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.md]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.yml *.yaml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.txt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.mk]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+[*.C *.h]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: (2021, Thursday September 9th at 5:40 pm)
+# Line count (including blank lines and compiler line): 77
+
+# End of script
